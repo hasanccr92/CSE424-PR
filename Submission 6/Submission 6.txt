@@ -1,0 +1,39 @@
+
+Paper title:
+Optical Text Recognition in Nepali and Bengali: A Transformer-based Approach
+
+Overleaf link with edit access
+https://www.overleaf.com/2612298546vhkhfvbkfjzr
+
+Link to unlisted youtube video:
+https://youtu.be/iV9SD-2L7IY
+
+Conference submitted paper / paper submission / login Link:
+https://edas.info/index.php?c=30216
+
+
+Paper submission date (to workshop/conference):
+26 April, 2023
+
+Paper submission ID: (received) from conference/workshop
+140 (1570907667)
+
+Conference Name:
+2023 IEEE 11th Region 10 Humanitarian Technology Conference (R10-HTC)
+
+Conference URL:
+https://r10htc2023.org/
+
+
+
+
+
+
+
+
+Group Number:
+04 
+
+Group Members:
+20201203 Aakar Dhakal
+22241038 S M Rakib Hasan
